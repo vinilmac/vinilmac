@@ -2,7 +2,7 @@
 
 A little about me:
 
-- :student:	I have a degree in Economics (graduated in 2021 at UFRGS) and currently doing a Master in Business Admnistration (MBA) on Data Sciende and Analytics at USP.
+- :student:	I have a degree in Economics (graduated in 2021 at UFRGS) and currently doing a Master in Business Admnistration (MBA) on Data Science and Analytics at USP.
 
 - :chart_with_upwards_trend: My first contact with data tools was in 2018 and I've worked as Data Analyst and Data Scientist since then.
 
